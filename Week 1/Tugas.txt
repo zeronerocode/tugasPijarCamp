@@ -1,0 +1,12 @@
+1. Algoritma menggoreng telur
+- Siapkan alat dan bahan
+- Letakkan wajan diatas api
+- Panaskan Minyak
+- Masukkan telur
+- Tunggu hingga matang
+- Angkat telur lalu tiriskan
+
+
+2. Algoritma reverse string
+- buat dua variabel untuk menapung string awal dan akhir
+- buat sebuah perluangan sepanjang string secara decrement
